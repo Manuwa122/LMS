@@ -1,0 +1,47 @@
+
+    <div class="site-section" id="teachers-section">
+      <div class="container">
+
+        <div class="row mb-5 justify-content-center">
+          <div class="col-lg-7 mb-5 text-center"  data-aos="fade-up" data-aos-delay="">
+            <h2 class="section-title">Our Teachers</h2>
+            <p class="mb-5">The best we promise the best we are !</p>
+          </div>
+        </div>
+
+        <div class="row">
+
+          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="100">
+            <div class="teacher text-center">
+              <img src="images/tech.jpg" alt="Image" class="teacher-img">
+              <div class="py-2">
+                <h3 class="text-black">Yamidu Chamod</h3>
+                <p class="position">DEEN</p>
+                <p>Made over 100 websites with years of experience, taught over 500 students.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="teacher text-center">
+              <img src="images/tech.jpg" alt="Image" class="teacher-img">
+              <div class="py-2">
+                <h3 class="text-black">Manuka Chamath</h3>
+                <p class="position">AI Teacher</p>
+                <p>Over 20 years of experience Worked at NASA and done so many projects .</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="teacher text-center">
+              <img src="images/tech.jpg" alt="Image" class="teacher-img">
+              <div class="py-2">
+                <h3 class="text-black">Shenaya</h3>
+                <p class="position">IOT Teacher</p>
+                <p>Leading expert in the domain of IOT, taught many students over the years.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>

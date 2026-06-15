@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('OIP\ \(4\).webp') no-repeat center center fixed; /* Add your background */
+    background-size: cover;
+    color: #fff;
+}
+
+.container {
+    text-align: center;
+    padding: 50px 20px;
+    background: rgba(0,0,0,0.5); /* Slight overlay to make text readable */
+    border-radius: 15px;
+    max-width: 900px;
+    margin: 100px auto;
+}
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+}
+
+.sections {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.section {
+    background: rgba(255,255,255,0.1);
+    padding: 20px;
+    border-radius: 15px;
+    width: 250px;
+    cursor: pointer;
+    transition: transform 0.3s, background 0.3s;
+    text-decoration: none; /* Remove underline if <a> used */
+}
+
+.section img {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.section h2 {
+    margin: 10px 0;
+}
+
+.section p {
+    font-size: 1em;
+    color: #ddd;
+}
+
+.section:hover {
+    transform: translateY(-10px);
+    background: rgba(255,255,255,0.2);
+}
+
+.physical {
+    border-top: 5px solid #ffaa00;
+}
